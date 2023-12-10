@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;700&display=swap");
+
+:root {
+	--color-black: #000000;
+	--color-black-2: #1c1c1c;
+	--color-white: #fcfcfc;
+	--color-green: #22c55e;
+	--color-red: #f62f63;
+}
+
+body {
+	font-family: "Cabin", sans-serif;
+	color: var(--color-white);
+}
